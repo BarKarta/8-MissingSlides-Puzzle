@@ -1,6 +1,0 @@
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\bin\Debug\PriorityQueue.dll
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\bin\Debug\PriorityQueue.pdb
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\obj\Debug\Priority Queue.csproj.AssemblyReference.cache
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\obj\Debug\Priority Queue.csproj.CoreCompileInputs.cache
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\obj\Debug\PriorityQueue.dll
-C:\Users\barka\source\repos\High-Speed-Priority-Queue-for-C-Sharp\Priority Queue\obj\Debug\PriorityQueue.pdb
