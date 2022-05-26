@@ -1,0 +1,14 @@
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.csproj.AssemblyReference.cache
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.csproj.SuggestedBindingRedirects.cache
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\_8_Puzzle_Sliding_Tiles_Puzzle.MainForm.resources
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle_Sliding.Properties.Resources.resources
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.csproj.GenerateResource.cache
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.csproj.CoreCompileInputs.cache
+C:\Users\barka\source\repos\Puzzle Sliding\bin\Debug\Puzzle Sliding.exe.config
+C:\Users\barka\source\repos\Puzzle Sliding\bin\Debug\Puzzle Sliding.exe
+C:\Users\barka\source\repos\Puzzle Sliding\bin\Debug\Puzzle Sliding.pdb
+C:\Users\barka\source\repos\Puzzle Sliding\bin\Debug\PriorityQueue.dll
+C:\Users\barka\source\repos\Puzzle Sliding\bin\Debug\PriorityQueue.pdb
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.csproj.CopyComplete
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.exe
+C:\Users\barka\source\repos\Puzzle Sliding\obj\Debug\Puzzle Sliding.pdb
